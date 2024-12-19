@@ -1,0 +1,7 @@
+The most advanced LLM currently is a matter of ongoing debate and depends on specific criteria used for evaluation.
+Some of the leading contenders include: 
+
+* **GPT-4** by OpenAI: Known for its impressive text generation, reasoning, and code generation capabilities.
+* **PaLM 2** by Google: Demonstrates strong performance in a wide range of tasks, including language understanding, code generation, and scientific reasoning.
+* **LaMDA** by Google:  Excels in dialogue and conversational AI, showcasing human-like fluency and coherence.
+* **BLOOM** by BigScience: An open-source LLM with multilingual capabilities and a focus on ethical development.
